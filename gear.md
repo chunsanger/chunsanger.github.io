@@ -106,6 +106,8 @@ As a wannabe audiophile I have a fairly varied collection of audio equipment thr
 - [Polk Audio PSW10 10-Inch Powered Subwoofer](https://www.amazon.com/Polk-10-Inch-Powered-Subwoofer-Single/dp/B0002KVQBA/ref=sr_1_3?s=electronics&ie=UTF8&qid=1509070205&sr=1-3&keywords=polk+audio+subwoofer)
 - [Yamaha RX-V375 AV Receiver](https://www.amazon.com/Yamaha-RX-V375-Channel-Theater-Receiver/dp/B00B981F38/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509070692&sr=1-1&keywords=yamaha+rx-v375)
 - [Audio-Technica AT-LP120 Turntable](https://www.amazon.com/Audio-Technica-AT-LP120-USB-Direct-Drive-Professional-Turntable/dp/B002S1CJ2Q)
+- [Sonos Play:3](https://www.amazon.com/Sonos-PLAY-Mid-Sized-Wireless-Streaming/dp/B005441AJC?th=1)  
+- [Sonos Play:5](https://www.amazon.com/Sonos-PLAY-Ultimate-Wireless-Streaming/dp/B014LFINIA)  
 - [Sonos Connect](https://www.amazon.com/Sonos-Wireless-Receiver-Component-Streaming/dp/B001CROHX6/ref=sr_1_1?s=amazon-devices&ie=UTF8&qid=1510114552&sr=8-1&keywords=sonos+connect)
 - [Sonos One](https://www.amazon.com/All-new-Sonos-One-Controlled-Speaker/dp/B074XN1LH3/ref=sr_1_3?s=electronics&ie=UTF8&qid=1510114680&sr=1-3&keywords=sonos%2Bone&th=1)
 - 2 [Sonos Play:1](https://www.amazon.com/Sonos-Play-Compact-Wireless-Streaming/dp/B00EWCUK1Q)
