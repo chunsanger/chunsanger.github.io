@@ -88,8 +88,9 @@ The room features my Vizio P602ui-B3, which I purchased on a steal of deal from 
 I'm looking to potentially replace my setup long-term with a simpler configuration using Sonos speakers, but that is still up in the air for the time being.
 
 - [Vizio P602ui-B3](https://www.amazon.com/VIZIO-P602ui-B3-60-Inch-Ultra-Smart/dp/B00M2FBEG0)
-- [Energy 5.1 Take Classic Home Theater System](https://www.amazon.com/Energy-Classic-Theater-System-Black/dp/B001202C44/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509070868&sr=1-1&keywords=energy+5.1)
-- [Denon AVR-S710W](https://www.amazon.com/Denon-AVR-S710W-Channel-Receiver-Bluetooth/dp/B00ZIGUE8Y/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509071512&sr=1-1&keywords=denon+avrs710w)
+- 2 [Sonos Play:1](https://www.amazon.com/Sonos-Play-Compact-Wireless-Streaming/dp/B00EWCUK1Q)
+- [Sonos Playbar](https://www.amazon.com/Sonos-Soundbar-Wireless-Streaming-Speaker/dp/B00AEMGGU2) 
+- [Awakelion HDMI Switch](https://www.amazon.com/Switch-Awakelion-Premium-Quality-Switcher/dp/B06WV5YJ6H/ref=sr_1_9?ie=UTF8&qid=1515528266&sr=8-9&keywords=4k+60hz+switch) 
 - [Nvidia Shield TV (2015)](https://www.amazon.com/NVIDIA-SHIELD/dp/B00U33Q940/ref=sr_1_5?s=electronics&ie=UTF8&qid=1509071847&sr=1-5&keywords=nvidia+shield+tv)
 - [Apple TV (4th Gen)](https://www.apple.com/shop/buy-tv/apple-tv/apple-tv-32gb)
 - [Roku 4](https://www.amazon.com/Roku-Streaming-Headphone-Quad-Core-Processor/dp/B015YF5YIS)
@@ -110,7 +111,7 @@ As a wannabe audiophile I have a fairly varied collection of audio equipment thr
 - [Sonos Play:5](https://www.amazon.com/Sonos-PLAY-Ultimate-Wireless-Streaming/dp/B014LFINIA)  
 - [Sonos Connect](https://www.amazon.com/Sonos-Wireless-Receiver-Component-Streaming/dp/B001CROHX6/ref=sr_1_1?s=amazon-devices&ie=UTF8&qid=1510114552&sr=8-1&keywords=sonos+connect)
 - [Sonos One](https://www.amazon.com/All-new-Sonos-One-Controlled-Speaker/dp/B074XN1LH3/ref=sr_1_3?s=electronics&ie=UTF8&qid=1510114680&sr=1-3&keywords=sonos%2Bone&th=1)
-- 2 [Sonos Play:1](https://www.amazon.com/Sonos-Play-Compact-Wireless-Streaming/dp/B00EWCUK1Q)
+
 
 Headphones (wired)
 - [Sennheiser HD 555](https://www.amazon.com/gp/product/B0001FTVDQ/ref=as_li_qf_sp_asin_il_tl?tag=onwinningcom-20&ie=UTF8&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0001FTVDQ&linkId=8bf9954f27f1be1fbbe9f3ade13207fe) ([with 595 mod](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiroazx44_XAhXm54MKHbPfA68QtwIIMDAB&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPvQ8PzBrHXE&usg=AOvVaw0vSNSEovgMc2OWRRfdxc4l))
@@ -125,3 +126,7 @@ Headphones (wireless)
 - [Outdoor Tech OT1400 Privates](https://www.amazon.com/Outdoor-Tech-OT1400-Privates-Headphones/dp/B00EUSMQWS?th=1)
 - [Meizu EP-51 earbuds](https://us.gearbest.com/sports-fitness-headphones/pp_356162.html) (at [the advice](https://www.theverge.com/2016/8/10/12421074/apple-could-and-probably-should-bundle-wireless-earbuds-with-the-next) of _The Verge_)
 - [Bose SoundSport Wireless](https://www.amazon.com/Bose-SoundSport-Wireless-Headphones-Black/dp/B01L7PSJFO)
+
+Retired Hardware
+- [Energy 5.1 Take Classic Home Theater System](https://www.amazon.com/Energy-Classic-Theater-System-Black/dp/B001202C44/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509070868&sr=1-1&keywords=energy+5.1)
+- [Denon AVR-S710W](https://www.amazon.com/Denon-AVR-S710W-Channel-Receiver-Bluetooth/dp/B00ZIGUE8Y/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509071512&sr=1-1&keywords=denon+avrs710w)
