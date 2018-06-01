@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started with Sonos
-img: sonos-1.png
+feature-img: sonos-1.png
 published: true
 ---
 
