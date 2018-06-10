@@ -1,4 +1,7 @@
 ---
+layout: post
+title: The Pixelbook Experience
+feature-img: 
 published: true
 ---
 ## The Pixelbook Experience
