@@ -33,5 +33,6 @@ I love being able to use Lightroom CC and the other collection of Android and ch
 
 There are tons of great reviews and write-ups out there that I'd direct anyone interested to check out:
 
-[The Verge - Google Pixelbook review](https://www.theverge.com/2017/10/26/16550908/google-pixelbook-review-chromebook-android-laptop)  
-[Wired - Review: Google Pixelbook](https://www.wired.com/2017/10/review-google-pixelbook/)
+[The Verge - Google Pixelbook review](https://www.theverge.com/2017/10/26/16550908/google-pixelbook-review-chromebook-android-laptop)   
+[Wired - Review: Google Pixelbook](https://www.wired.com/2017/10/review-google-pixelbook/)  
+[CNET - Google Pixelbook Review](https://www.cnet.com/products/google-pixelbook/review/)  
