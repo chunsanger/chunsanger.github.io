@@ -6,7 +6,7 @@ url: "https://chrishunsanger.com"
 theme_settings:
   # Meta
   title: Chris Hunsanger
-  avatar: 
+  avatar:
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: 
+  github:
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -77,7 +77,7 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
-theme: jekyll-theme-type
+remote_theme: rohanchandra/type-theme
 exclude:
   - Gemfile
   - Gemfile.lock
