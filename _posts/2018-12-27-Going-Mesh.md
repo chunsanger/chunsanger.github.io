@@ -1,6 +1,4 @@
-# Going Mesh
-
-## or how I switched to Eero and never looked back...
+##### or how I switched to Eero and never looked back...
 
 When I moved into my quad level house built in the 60's nearly 10 years ago I never worried about wireless... I thought, I have a few wireless devices and they were normally fine in our apartment so I'll be good, right? 
 
