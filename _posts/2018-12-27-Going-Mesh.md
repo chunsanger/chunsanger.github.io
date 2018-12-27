@@ -23,13 +23,9 @@ Then Netflix happened, and smartphones gained quicker in popularity, then Alexa 
 **Cons (Eero)**
 
 - Lack of ability to test connectivity of individual devices.
-
   - Google Wifi has the ability to select a device and see the download and upload speed of the individual device
-
 - Missing network usage statistics for individual devices (this is possibly coming in the future)
-
   - Google WiFi has an option to see which devices are using the most data on a daily, weekly, or monthly basis
-
 - Lack of web interface (this is the same with Google WiFi)
 
 
