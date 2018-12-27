@@ -22,7 +22,7 @@ Then Netflix happened, and smartphones gained quicker in popularity, then Alexa 
 
 **Cons (Eero)**
 
-- Lack of ability to test connectivity of individual devices. 
+- Lack of ability to test connectivity of individual devices.
 
   - Google Wifi has the ability to select a device and see the download and upload speed of the individual device
 
