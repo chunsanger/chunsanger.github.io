@@ -88,7 +88,7 @@ Google Assistant/Nest
 - [Nest Hello](https://store.google.com/us/product/nest_hello_doorbell)
 
 Alexa
-- 1 [Amazon Echo (1st Gen)](https://www.amazon.com/dp/B06XCM9LJ4/ref=fs_ods_fs_ha_drhttps://www.amazon.com/dp/B06XCM9LJ4/ref=fs_ods_fs_ha_dr)
+- [Amazon Echo (1st Gen)](https://www.amazon.com/dp/B06XCM9LJ4/ref=fs_ods_fs_ha_drhttps://www.amazon.com/dp/B06XCM9LJ4/ref=fs_ods_fs_ha_dr)
 - 2 [Amazon Echo Show (1st Gen)](https://www.amazon.com/Amazon-Echo-Show-Alexa-Enabled-Black/dp/B01J24C0TI/ref=cm_cr_arp_d_product_top?ie=UTF8)
 - 6 [Amazon Echo Dot (1st/2nd Gen/3rd Gen)](https://www.amazon.com/Amazon-Echo-Dot-Portable-Bluetooth-Speaker-with-Alexa-Black/dp/B01DFKC2SO/ref=sr_1_1?s=lamps-light&ie=UTF8&qid=1508986998&sr=8-1&keywords=amazon+echo+dot)
 - [Samsung SmartThings Smart Home Hub](https://www.amazon.com/Samsung-SmartThings-Smart-Home-Hub/dp/B010NZV0GE/ref=pd_lpo_vtph_60_bs_t_1?_encoding=UTF8&psc=1&refRID=SJC24BHX2F1EFBCM0X67)
@@ -99,7 +99,7 @@ SmartThings/Other
 - 2 [Samsung SmartThings Water Leak Sensors](https://www.amazon.com/Samsung-SmartThings-Water-Leak-Sensor/dp/B00MOIYIN6)
 - 2 [Visonic MCT-340 E Wireless Door Window Sensor](https://www.amazon.com/dp/B06XDJ3KYC)
 - 2 [Aeon Labs Z-Wave Minimotes](https://www.amazon.com/Aeon-Labs-DSA03202-v1-Minimote/dp/B00KU7ERAW/ref=sr_1_cc_1?s=aps&ie=UTF8&qid=1508988111&sr=1-1-catcorr&keywords=aeon+remote)
-- 1 [Yi 1080p Camera](https://www.amazon.com/YI-Camera-Wireless-Security-Surveillance/dp/B01CW4AR9K/ref=sr_1_4?s=lamps-light&ie=UTF8&qid=1508987427&sr=8-4&keywords=yi+camera)
+- [Yi 1080p Camera](https://www.amazon.com/YI-Camera-Wireless-Security-Surveillance/dp/B01CW4AR9K/ref=sr_1_4?s=lamps-light&ie=UTF8&qid=1508987427&sr=8-4&keywords=yi+camera)
 - 6 [Lutron Aurora](https://www.amazon.com/Lutron-Aurora-Dimmer-Philips-Z3-1BRL-WH-L0/dp/B07RJ14FBS)
 <h4 id="tv">Home Theater</h4>  
 
