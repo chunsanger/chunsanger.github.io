@@ -7,7 +7,8 @@ published: true
   <div class="toc">
     <h5>Table of contents</h5>
     <ul>
-      <li><a href="#computers">Computers</a></li>
+      <li><a href="#displays">Displays</a></li>
+      <li><a href="#desktop-computers">Desktop Computers</a></li>
       <li><a href="#keyboard-mouse">Keyboard and mouse</a></li>
       <li><a href="#desk">Desk</a></li>
       <li><a href="#networking">Networking</a></li>
@@ -27,16 +28,15 @@ My day to day usage is primarily done on my Mac Mini which is attached to an ult
 
 I do a large amount of work at home, so I utilize the triple monitor setup frequently and have been very happy with the Dell U2412M monitors and appreciate the extra resolution and space on the Ultrawide monitor.
 
-#### Displays
+<h4 id="displays">Displays</h4>  
 - [Alienware AW3420DW](https://www.dell.com/en-us/shop/new-alienware-34-curved-gaming-monitor-aw3420dw/apd/210-atzq/monitors-monitor-accessories)
 - 2 [Dell UltraSharp U2412M](https://www.amazon.com/Dell-UltraSharp-24-Inch-LED-Lit-Monitor/dp/B005JN9310/ref=sr_1_1?s=electronics&ie=UTF8&qid=1508988397&sr=1-1&keywords=Dell+u2412M)
 
-#### Desktop Computers
+<h4 id="desktop-computers">Desktop Computers</h4>  
 - [Mac Mini 2018](https://www.apple.com/mac-mini/)
 - [Custom Built PC](https://pcpartpicker.com/user/chunsanger/saved/#view=YbCwrH)
-  - Highlights:
 
-#### Keyboard & Mouse
+<h4 id="keyboard-mouse">Keyboard & Mouse</h4>  
 - [Logitech K780](https://www.amazon.com/Logitech-Multi-Device-Wireless-Keyboard-Computer/dp/B01LZTBKBG)
   -  At the recommendation of [The Wirecutter](https://thewirecutter.com/reviews/the-best-bluetooth-keyboard/), I went and purchased the Logitech K780. This keyboard is fantastic mainly because of the three buttons in the upper left corner which allow me to bounce between three devices. The key travel is nominal but satisfying, and the wireless minimal look is quite nice.
 - [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3)
@@ -45,7 +45,7 @@ I do a large amount of work at home, so I utilize the triple monitor setup frequ
 - [Google Pixelbook](https://store.google.com/us/product/google_pixelbook)
 - [Acer Aspire S7-392](https://www.amazon.com/Acer-S7-392-9890-13-3-Inch-Touchscreen-Ultrabook/dp/B00D4AX780)
 
-#### Desk  
+<h4 id="desk">Desk</h4>  
 
 For every desk there is a story. This story is short, so I'll get right to it. I was hunting for a computer desk upgrade a couple of years ago and came across the desk of my dreams. The desk had two hideaway shelves, along with two swivel shelves and two long shelves in addition to a large base. I quickly contacted the seller and he advised that I could pick it up at his home. Living where I do, I felt comfortable with this arrangement (plus desks are not the easiest to move) and agreed to meet him at his house. As I pulled up, I immediately realized this person lived across the street from my in-laws. Not only that, but my in-laws were close friends with the seller. As I walked up to meet the seller, I mentioned that my in-laws were his neighbor, and he offered me the desk for free provided that I would promise to take good care of it. I shook his hand with a silent agreement and loaded the desk. I hopped on home and began getting the desk configured and setup. I quickly realized this was no ordinary desk, but instead the _internet famous_ Ikea Jerker (Version 1). This desk not only had a cult-like following but had websites devoted solely to "hacking" the desk and adding to the functionality. I personally went with my own setup to give my monitors a slight lift and allowed for some cable management beneath.
 
