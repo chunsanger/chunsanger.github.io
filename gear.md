@@ -104,7 +104,7 @@ Setup 3 - Tertiary (Kids Room)
 - [Sonos Beam - White](https://www.sonos.com/en-us/shop/beam.html)  
 - [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k)
 
-<h4 id="tv">Home Theater</h4>  
+<h4 id="gaming">Gaming</h4>  
 - [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1509071820&sr=1-3&keywords=nintendo+switch)
 - [NES Classic](https://www.nintendo.com/nes-classic/)
 - [Xbox One](https://www.amazon.com/Microsoft-Xbox-One-Special-Certified-Refurbished/dp/B01N8YOOQM/ref=sr_1_7?s=electronics&ie=UTF8&qid=1509071652&sr=1-7&keywords=xbox%2Bone&th=1)
