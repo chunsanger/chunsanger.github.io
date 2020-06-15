@@ -10,16 +10,14 @@ published: true
       <li><a href="#displays">Displays</a></li>
       <li><a href="#desktop-computers">Desktop Computers</a></li>
       <li><a href="#keyboard-mouse">Keyboard and mouse</a></li>
+      <li><a href="#laptops">Laptops</a></li>
       <li><a href="#desk">Desk</a></li>
       <li><a href="#networking">Networking</a></li>
       <li><a href="#homeauto">Home automation</a></li>
       <li><a href="#tv">Home theater</a></li>
       <li><a href="#personalaudio">Personal audio</a></li>
-      <li><a href="#edc">Everyday carry</a></li>
-      <li><a href="#kindle">Kindle</a></li>
-      <li><a href="#paper">Pen and paper</a></li>
+      <li><a href="#gaming">Gaming</a></li>
       <li><a href="#mobile">Mobile devices</a></li>
-      <li><a href="#software">Software</a></li>
     </ul>
   </div>
 
@@ -41,7 +39,7 @@ I do a large amount of work at home, so I utilize the triple monitor setup frequ
   -  At the recommendation of [The Wirecutter](https://thewirecutter.com/reviews/the-best-bluetooth-keyboard/), I went and purchased the Logitech K780. This keyboard is fantastic mainly because of the three buttons in the upper left corner which allow me to bounce between three devices. The key travel is nominal but satisfying, and the wireless minimal look is quite nice.
 - [Logitech MX Master 3](https://www.logitech.com/en-us/product/mx-master-3)
 
-#### Laptops
+<h4 id="laptops">Laptops</h4>  
 - [Google Pixelbook](https://store.google.com/us/product/google_pixelbook)
 - [Acer Aspire S7-392](https://www.amazon.com/Acer-S7-392-9890-13-3-Inch-Touchscreen-Ultrabook/dp/B00D4AX780)
 
@@ -49,7 +47,11 @@ I do a large amount of work at home, so I utilize the triple monitor setup frequ
 
 For every desk there is a story. This story is short, so I'll get right to it. I was hunting for a computer desk upgrade a couple of years ago and came across the desk of my dreams. The desk had two hideaway shelves, along with two swivel shelves and two long shelves in addition to a large base. I quickly contacted the seller and he advised that I could pick it up at his home. Living where I do, I felt comfortable with this arrangement (plus desks are not the easiest to move) and agreed to meet him at his house. As I pulled up, I immediately realized this person lived across the street from my in-laws. Not only that, but my in-laws were close friends with the seller. As I walked up to meet the seller, I mentioned that my in-laws were his neighbor, and he offered me the desk for free provided that I would promise to take good care of it. I shook his hand with a silent agreement and loaded the desk. I hopped on home and began getting the desk configured and setup. I quickly realized this was no ordinary desk, but instead the _internet famous_ Ikea Jerker (Version 1). This desk not only had a cult-like following but had websites devoted solely to "hacking" the desk and adding to the functionality. I personally went with my own setup to give my monitors a slight lift and allowed for some cable management beneath.
 
-#### Networking  
+<h4 id="mobile">Mobile Phones</h4>  
+- Apple iPhone 11 Pro
+- Google Pixel 3 XL  
+
+<h4 id="networking">Networking</h4>  
 - 3 Eero Pro
 - 1 Eero Beacon
 - 4 Gigabit Network switches (Netgear/TrendNet)
@@ -102,12 +104,7 @@ Setup 3 - Tertiary (Kids Room)
 - [Sonos Beam - White](https://www.sonos.com/en-us/shop/beam.html)  
 - [Apple TV 4K](https://www.apple.com/shop/buy-tv/apple-tv-4k)
 
-Retired:
-- ~~[Nvidia Shield TV (2015)](https://www.amazon.com/NVIDIA-SHIELD/dp/B00U33Q940/ref=sr_1_5?s=electronics&ie=UTF8&qid=1509071847&sr=1-5&keywords=nvidia+shield+tv)~~
-- ~~[Apple TV (4th Gen)](https://www.apple.com/shop/buy-tv/apple-tv/apple-tv-32gb)~~
-- ~~[Roku 4](https://www.amazon.com/Roku-Streaming-Headphone-Quad-Core-Processor/dp/B015YF5YIS)~~
-
-Gaming  
+<h4 id="tv">Home Theater</h4>  
 - [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1509071820&sr=1-3&keywords=nintendo+switch)
 - [NES Classic](https://www.nintendo.com/nes-classic/)
 - [Xbox One](https://www.amazon.com/Microsoft-Xbox-One-Special-Certified-Refurbished/dp/B01N8YOOQM/ref=sr_1_7?s=electronics&ie=UTF8&qid=1509071652&sr=1-7&keywords=xbox%2Bone&th=1)
@@ -152,5 +149,8 @@ Retired Hardware
 - ~~[Logitech MX Master](https://www.amazon.com/Logitech-Master-Wireless-Mouse-High-precision/dp/B00TZR3WRM/ref=sr_1_4?s=electronics&ie=UTF8&qid=1508988435&sr=1-4&keywords=logitech+Master)~~
 - ~~[Das Keyboard Professional](https://www.daskeyboard.com/model-s-professional/)~~
 - ~~[Vortex PBT Keycaps](https://www.massdrop.com/buy/vortex-pbt-keycaps)~~
--  ~~1 [Google On-Hub Router (TP-Link)](https://www.amazon.com/Google-WiFi-Router-OnHub-AC1900/dp/B013ALA9LA) ~~
-- ~~1 [Google Wifi 3-Pack](https://store.google.com/config/google_wifi)~~
+-  ~~[Google On-Hub Router (TP-Link)](https://www.amazon.com/Google-WiFi-Router-OnHub-AC1900/dp/B013ALA9LA) ~~
+- ~~[Google Wifi 3-Pack](https://store.google.com/config/google_wifi)~~
+- ~~[Nvidia Shield TV (2015)](https://www.amazon.com/NVIDIA-SHIELD/dp/B00U33Q940/ref=sr_1_5?s=electronics&ie=UTF8&qid=1509071847&sr=1-5&keywords=nvidia+shield+tv)~~
+- ~~[Apple TV (4th Gen)](https://www.apple.com/shop/buy-tv/apple-tv/apple-tv-32gb)~~
+- ~~[Roku 4](https://www.amazon.com/Roku-Streaming-Headphone-Quad-Core-Processor/dp/B015YF5YIS)~~
