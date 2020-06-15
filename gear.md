@@ -173,7 +173,7 @@ Retired Hardware
 - ~~[Logitech MX Master](https://www.amazon.com/Logitech-Master-Wireless-Mouse-High-precision/dp/B00TZR3WRM/ref=sr_1_4?s=electronics&ie=UTF8&qid=1508988435&sr=1-4&keywords=logitech+Master)~~
 - ~~[Das Keyboard Professional](https://www.daskeyboard.com/model-s-professional/)~~
 - ~~[Vortex PBT Keycaps](https://www.massdrop.com/buy/vortex-pbt-keycaps)~~
--  ~~[Google On-Hub Router (TP-Link)](https://www.amazon.com/Google-WiFi-Router-OnHub-AC1900/dp/B013ALA9LA) ~~
+- ~~[Google On-Hub Router (TP-Link)](https://www.amazon.com/Google-WiFi-Router-OnHub-AC1900/dp/B013ALA9LA)~~
 - ~~[Google Wifi 3-Pack](https://store.google.com/config/google_wifi)~~
 - ~~[Nvidia Shield TV (2015)](https://www.amazon.com/NVIDIA-SHIELD/dp/B00U33Q940/ref=sr_1_5?s=electronics&ie=UTF8&qid=1509071847&sr=1-5&keywords=nvidia+shield+tv)~~
 - ~~[Apple TV (4th Gen)](https://www.apple.com/shop/buy-tv/apple-tv/apple-tv-32gb)~~
