@@ -44,8 +44,7 @@ I do a large amount of work at home, so I utilize the triple monitor setup frequ
 - [Acer Aspire S7-392](https://www.amazon.com/Acer-S7-392-9890-13-3-Inch-Touchscreen-Ultrabook/dp/B00D4AX780)
 
 <h4 id="desk">Desk</h4>  
-- Ikea Jerker 1 (_discontinued_)  
-
+- Ikea Jerker 1 - _discontinued_ 
   - For every desk there is a story. This story is short, so I'll get right to it. I was hunting for a computer desk upgrade a couple of years ago and came across the desk of my dreams. The desk had two hideaway shelves, along with two swivel shelves and two long shelves in addition to a large base. I quickly contacted the seller and he advised that I could pick it up at his home. Living where I do, I felt comfortable with this arrangement (plus desks are not the easiest to move) and agreed to meet him at his house. As I pulled up, I immediately realized this person lived across the street from my in-laws. Not only that, but my in-laws were close friends with the seller. As I walked up to meet the seller, I mentioned that my in-laws were his neighbor, and he offered me the desk for free provided that I would promise to take good care of it. I shook his hand with a silent agreement and loaded the desk. I hopped on home and began getting the desk configured and setup. I quickly realized this was no ordinary desk, but instead the _internet famous_ Ikea Jerker (Version 1). This desk not only had a cult-like following but had websites devoted solely to "hacking" the desk and adding to the functionality. I personally went with my own setup to give my monitors a slight lift and allowed for some cable management beneath.
 
 <h4 id="mobile">Mobile Phones</h4>  
