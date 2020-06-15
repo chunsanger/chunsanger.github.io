@@ -146,7 +146,8 @@ Headphones (wireless)
 - [Meizu EP-51 earbuds](https://us.gearbest.com/sports-fitness-headphones/pp_356162.html) (at [the advice](https://www.theverge.com/2016/8/10/12421074/apple-could-and-probably-should-bundle-wireless-earbuds-with-the-next) of _The Verge_)
 - [Bose SoundSport Wireless](https://www.amazon.com/Bose-SoundSport-Wireless-Headphones-Black/dp/B01L7PSJFO)
 
-Retired Hardware
+Retired Hardware  
+
 -~~[Energy 5.1 Take Classic Home Theater System](https://www.amazon.com/Energy-Classic-Theater-System-Black/dp/B001202C44/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509070868&sr=1-1&keywords=energy+5.1)~~
 - ~~[Denon AVR-S710W](https://www.amazon.com/Denon-AVR-S710W-Channel-Receiver-Bluetooth/dp/B00ZIGUE8Y/ref=sr_1_1?s=electronics&ie=UTF8&qid=1509071512&sr=1-1&keywords=denon+avrs710w)~~
 - ~~[Logitech MX Master](https://www.amazon.com/Logitech-Master-Wireless-Mouse-High-precision/dp/B00TZR3WRM/ref=sr_1_4?s=electronics&ie=UTF8&qid=1508988435&sr=1-4&keywords=logitech+Master)~~
