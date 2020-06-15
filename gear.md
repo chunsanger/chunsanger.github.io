@@ -49,12 +49,12 @@ I do a large amount of work at home, so I utilize the triple monitor setup frequ
   - For every desk there is a story. This story is short, so I'll get right to it. I was hunting for a computer desk upgrade a couple of years ago and came across the desk of my dreams. The desk had two hideaway shelves, along with two swivel shelves and two long shelves in addition to a large base. I quickly contacted the seller and he advised that I could pick it up at his home. Living where I do, I felt comfortable with this arrangement (plus desks are not the easiest to move) and agreed to meet him at his house. As I pulled up, I immediately realized this person lived across the street from my in-laws. Not only that, but my in-laws were close friends with the seller. As I walked up to meet the seller, I mentioned that my in-laws were his neighbor, and he offered me the desk for free provided that I would promise to take good care of it. I shook his hand with a silent agreement and loaded the desk. I hopped on home and began getting the desk configured and setup. I quickly realized this was no ordinary desk, but instead the _internet famous_ Ikea Jerker (Version 1). This desk not only had a cult-like following but had websites devoted solely to "hacking" the desk and adding to the functionality. I personally went with my own setup to give my monitors a slight lift and allowed for some cable management beneath.
 
 <h4 id="mobile">Mobile Phones</h4>  
-- Apple iPhone 11 Pro
-- Google Pixel 3 XL  
+- [Apple iPhone 11 Pro](https://www.apple.com/iphone-11-pro/)
+- [Google Pixel 3 XL](https://www.amazon.com/Google-Pixel-Memory-Unlocked-Clearly/dp/B07P8MQD6F?th=1)
 
 <h4 id="networking">Networking</h4>  
-- 3 Eero Pro
-- 1 Eero Beacon
+- [Amazon Eero Pro mesh WiFi system (3-pack)](https://www.amazon.com/eero-Pro-WiFi-System-Pros/dp/B071DWXLYL)
+- [Amazon Eero Beacon](https://www.amazon.com/eero-Advanced-Wireless-Nightlight-Networks/dp/B077CDGS9S/ref=sr_1_1?dchild=1&keywords=eero+beacon&qid=1592192983&s=amazon-devices&sr=1-1)
 - 4 Gigabit Network switches (Netgear/TrendNet)
 
 <h4 id="homeauto">Home Automation</h4>
